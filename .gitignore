@@ -1,2 +1,8 @@
 
 *.csv
+.ipynb_checkpoints/Olist_O2_Tries-checkpoint.ipynb
+.ipynb_checkpoints/POlist_01_NotebookEDA_uncleaned-checkpoint.ipynb
+.ipynb_checkpoints/POlist_02_notebookessais-checkpoint.ipynb
+.ipynb_checkpoints/POlist_Combination-checkpoint.ipynb
+.ipynb_checkpoints/Untitled-checkpoint.ipynb
+__pycache__/functions.cpython-37.pyc
